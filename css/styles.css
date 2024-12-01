@@ -273,11 +273,12 @@ button {
     padding: 32px 0px;
 }
 .title-our-team {
-    text-align: start;
+    text-align: center;
     text-transform: capitalize;
     margin-bottom: 8px;
 }
 .item-text-our-team {
+    text-align: center;
 }
 /* #endregion */
 
